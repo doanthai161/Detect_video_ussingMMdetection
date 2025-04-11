@@ -1,3 +1,8 @@
+## Demo
+<p align="center">
+  <img src="demo/video_demo.gif" width="640"><br/>
+  <i>Real-time object detection result on sample video</i>
+</p>
 
 ## Installation
 
